@@ -57,16 +57,15 @@ I am a Data Science enthusiast currently conducting my **Final Year Dissertation
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradip-0&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradip-0&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pradip-0&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradip-0&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradip-0&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
 </div>
 
 <div align="center">
