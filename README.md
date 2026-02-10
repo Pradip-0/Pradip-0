@@ -64,6 +64,12 @@ I am a Data Science enthusiast currently conducting my **Final Year Dissertation
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Pradip-0/Pradip-0/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" />
+  
+  <img src="https://raw.githubusercontent.com/Pradip-0/Pradip-0/main/profile-summary-card-output/radical/3-commit-habit.svg" alt="Commit Habits" />
+</div>
+
+<div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradip-0&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
+  <img src="https://komarev.com/ghpvc/?username=Pradip-0&color=blueviolet" alt="Profile Views" />
 </div>
