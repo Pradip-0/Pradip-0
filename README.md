@@ -49,6 +49,8 @@ I am a Data Science enthusiast currently conducting my **Final Year Dissertation
 ![Optuna](https://img.shields.io/badge/Optuna-406EDF?style=flat)
 ![cuML](https://img.shields.io/badge/cuML-7400FF?style=flat&logo=nvidia&logoColor=white)
 ![imblearn](https://img.shields.io/badge/Imbalanced--Learn-F7931E?style=flat)
+![Static Badge](https://img.shields.io/badge/SHAP-dodgerblue?style=flat&logo=chartmogul&labelColor=%230373fc)
+
 
 **Tools & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
