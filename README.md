@@ -46,15 +46,16 @@ I am a Data Science enthusiast currently conducting my **Final Year Dissertation
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-406EDF?style=flat)
+![Optuna](https://img.shields.io/badge/Optuna-002C76?style=flat&logo=optuna&logoColor=white)
 ![cuML](https://img.shields.io/badge/cuML-7400FF?style=flat&logo=nvidia&logoColor=white)
-![imblearn](https://img.shields.io/badge/Imbalanced--Learn-F7931E?style=flat)
-![Static Badge](https://img.shields.io/badge/SHAP-dodgerblue?style=flat&logo=chartmogul&labelColor=%230373fc)
+![Static Badge](https://img.shields.io/badge/SHAP-dodgerblue?style=flat&logo=https%3A%2F%2Fgithubusercontent%2Ecom%2Fshap%2Fshap%2Fraw%2Fmain%2Fdocs%2Fartwork%2Fshap_logo.png&labelColor=%230373fc)
+
+[shap-official-badge]: https://img.shields.io/badge/SHAP-%230373fc?style=flat&logo=data:image/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTIgMnYyMGgyVjJIdjB6bTQgNHYxMmgyVjZINnYwek0xMCA4djhoMlY4SDEwdjB6bTQtNHYxMmgyVjRIMTR2MHptNCA2djloMlYxMGgtdjB6Ii8+PC9zdmc%2B&logoColor=white
 
 
 **Tools & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ---
